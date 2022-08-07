@@ -8,7 +8,7 @@ int main()
     scanf("%d",&amont);
     int num;
     num=amount*7+65;
-    printf("........%d',num);
+    printf("........%d“,num);
     return 0;
     }
     
